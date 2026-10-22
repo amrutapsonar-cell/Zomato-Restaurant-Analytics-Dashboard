@@ -1,5 +1,3 @@
-# Zomato-Restaurant-Analytics-Dashboard
-Interactive Power BI Dashboard analyzing 51.7K+ Zomato restaurant listings across Bengaluru.
 # 🍽️ Zomato Restaurant Analytics Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
